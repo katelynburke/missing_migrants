@@ -5,7 +5,7 @@
 
 More information about the project can be found here: https://missingmigrants.iom.int/
 
-Changes made to the dataset include: 
+Changes made to the dataset include: Dropped columns that were not needed for the analysis, separated the latitude and longitude coordinates, combined similar 'causes of death' together
 
 ![shipwreck_libya](https://github.com/katelynburke/missing_migrants/blob/master/images/libya_shipwreck.jpg)
 
