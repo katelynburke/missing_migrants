@@ -1,5 +1,5 @@
 ## The Global Impact of Missing Migrants
-*Using Python Pandas and Tableau to analyze data from the Missing Migrant Project. This project tracks the deaths of migrants, including refugees and asylum-seekers, who have gone missing along mixed migration routes worldwide between the years of 2014 and 2019. *
+*Using Python Pandas and Tableau to analyze data from the Missing Migrant Project. This project tracks the deaths of migrants, including refugees and asylum-seekers, who have gone missing along mixed migration routes worldwide between the years of 2014 and 2019.*
 
 **Credit for the dataset used goes to 'IOM's Missing Migrants Project'.**
 
