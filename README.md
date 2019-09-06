@@ -15,4 +15,5 @@ Image source: https://www.infomigrants.net/en/post/19140/at-least-40-feared-dead
 
 ### Example Tableau visualizations included on the dashboard:
 
-**World map of migrants who have died or gone missing:**
+**World Map of Migrants Who Have Gone Missing Worldwide Between 2014-2019**
+![world_map](https://github.com/katelynburke/missing_migrants/blob/master/tableau_images/Screen%20Shot%202019-09-06%20at%203.48.19%20PM.png)
