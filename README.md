@@ -17,3 +17,6 @@ Image source: https://www.infomigrants.net/en/post/19140/at-least-40-feared-dead
 
 **World Map of Migrants Who Have Gone Missing Worldwide Between 2014-2019**
 ![world_map](https://github.com/katelynburke/missing_migrants/blob/master/tableau_images/cause_of_death_map.png)
+
+**Worldwide Migration Routes**
+![migration_routes](https://github.com/katelynburke/missing_migrants/blob/master/tableau_images/migration_routes.png)
