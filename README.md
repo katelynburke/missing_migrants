@@ -12,3 +12,7 @@ Changes made to the dataset include: Dropped columns that were not needed for th
 This image shows the devastation after a shipwreck off the coast of Libya on August 27th, 2019. The coastguard was able to rescue approximately 65 migrants, mostly from Sudan, but many are still missing at sea. 
 
 Image source: https://www.infomigrants.net/en/post/19140/at-least-40-feared-dead-or-missing-in-shipwreck-off-libya-according-to-unhcr
+
+### Example Tableau visualizations included on the dashboard:
+
+**World map of migrants who have died or gone missing:**
