@@ -36,4 +36,14 @@ Story Points:
 **Worldwide Migration Routes**
 ![migration_routes](https://github.com/katelynburke/missing_migrants/blob/master/tableau_images/migration_routes.png)
 
-### Insights: 
+### Location Insights: 
+* Very high concentration of migrant deaths off of the coast of Northern Africa. 
+
+### Cause of Death Insights: 
+* The most common cause of death off of the coast off of Northern Africa is drowning. 
+
+### Month and Year/Date Insights: 
+*
+
+### Migration Route Insights: 
+*
