@@ -23,6 +23,7 @@ Story Points:
 1) World map depicting the locations of missing migrants 
 2) World map with a focus on the coast of Northern Africa 
 3) World map with a focus on the deadly passageway from Libya to Italy (Mediterranean Sea)
+4) World map with a focus on the United States/Mexico border
 4) Migration causes of death 
 5) Missing migrants by month and year 
 6) Deaths along migration routes
