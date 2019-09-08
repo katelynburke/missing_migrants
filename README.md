@@ -24,7 +24,7 @@ Story Points:
 2) World map with a focus on the coast of Northern Africa 
 3) World map with a focus on the deadly passageway from Libya to Italy (Mediterranean Sea)
 4) World map with a focus on the United States/Mexico border
-4) Migration causes of death 
+4) Migration causes of death (dashboard)
 5) Missing migrants by month and year 
 6) Deaths along migration routes
 
@@ -36,14 +36,9 @@ Story Points:
 **Worldwide Migration Routes**
 ![migration_routes](https://github.com/katelynburke/missing_migrants/blob/master/tableau_images/migration_routes.png)
 
-### Location Insights: 
-* Very high concentration of migrant deaths off of the coast of Northern Africa. 
-
-### Cause of Death Insights: 
-* The most common cause of death off of the coast off of Northern Africa is drowning. 
-
-### Month and Year/Date Insights: 
-*
-
-### Migration Route Insights: 
-*
+### Insights: 
+* Very high concentration of migrant deaths off of the coast of Northern Africa (Mediterranean Sea). This area connecting Libya and Italy is one of the most dangerous migration routes in the world. The most common cause of death off of the coast off of Northern Africa is drowning.
+* High concentration of migrant deaths at the United States/Mexico border. Many causes of the deaths at the border unknown but several deaths are due to vehicle accidents, dehydration/starvation, and violence. 
+* The most common cause of death of migrants worldwide is drowning. Many migrant causes of death are unknown. 
+* The deadliest month for migrants between 2014-2018 was April 2015. A shipwreck in the Mediterranean, between Libya and Italy, lead to the deaths of over 800 migrants. The majority of the migrants were fleeing the poverty and conflict in Africa.
+* The spread of missing migrants is not limited to only a few countries, but is a worldwide issue.
