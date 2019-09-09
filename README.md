@@ -3,7 +3,7 @@
 [Link to Story Visualization Created with Tableau](https://public.tableau.com/views/MissingMigrantStoryFinal/GlobalImpactStory?:embed=y&:display_count=yes&publish=yes&:origin=viz_share_link)
 
 ### About:
-*In order to analyze data from the Missing Migrant Project, I utilized Python Pandas and Tableau. The Missing Migrant Project (https://missingmigrants.iom.int/) tracks the deaths of migrants, including refugees and asylum-seekers, who have gone missing along mixed migration routes worldwide between the years of 2014 and 2019. I used the data from the project to create visualizations in order to gain insights about where and why migrants are going missing around the world. I present these visualizations in a Tableau story.*
+*In order to analyze data from the Missing Migrant Project, I utilized Python Pandas and Tableau. The Missing Migrant Project (https://missingmigrants.iom.int/) tracks the deaths of migrants, including refugees and asylum-seekers, who have gone missing along mixed migration routes worldwide between the years of 2014 and 2019. The MMP begain in 2014 when two shipwrecks near Italy killed almost 400 migrants. I used the data from the MMP project to create visualizations in order to gain insights about where and why migrants are going missing around the world. I present these visualizations in a Tableau story.*
 
 ### Data Used: 
 Credit for the dataset used goes to 'IOM's Missing Migrants Project'.
